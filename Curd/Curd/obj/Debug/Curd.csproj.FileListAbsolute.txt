@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\obj\Debug\Curd.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\obj\Debug\Curd.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Curd.exe.config
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Curd.exe
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Curd.pdb
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\obj\Debug\Curd.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\obj\Debug\Curd.exe
+C:\Users\Administrator\Desktop\ALapan\Curd\Curd\obj\Debug\Curd.pdb
