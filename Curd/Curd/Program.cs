@@ -17,6 +17,8 @@ namespace Curd
 
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hello there");
             try
             {
                 CreateAzureStorageTable();
